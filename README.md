@@ -1,0 +1,1 @@
+# redhat_linux_training_2024
